@@ -85,7 +85,7 @@
 
                 <div class="absolute -inset-4 rounded-full bg-primary/20 blur-3xl opacity-30"></div>
 
-                <div class="relative overflow-hidden rounded-full shadow-2xl rotate-3 hover:rotate-0 transition-transform duration-500 aspect-square">
+                <div class="relative overflow-hidden rounded-3xl shadow-2xl rotate-3 hover:rotate-0 transition-transform duration-500 aspect-square">
 
                     <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCFqEeoiB8UbUvtfZGY7jPV-D5zo9ukWuRs3q0kqc9y7vvTZi6aanDkPSy44fK61DfsY5UEWzBIUTiYJIFmCUQt4HmuuLyuZE-28l2NM03qq7Rto2VeSeNagDxlPZ84tH7nxyKA620gKDz4mrIq_as7abeLRRpW7iIzcq71I6-HufT3wZCm0SyFVuTiBuzDv-9582WKBAcsJ_aGw6kGZjFQBYKN33ggwN5t4rDAW-UNDIG_nfDRlsIc_iIq-T90HuWIyLMfKRwi6wWy"
                          class="w-full h-full object-cover"
